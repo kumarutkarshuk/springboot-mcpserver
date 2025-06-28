@@ -1,3 +1,0 @@
-- STDIO (standard input/output) : programs communicate via STDIO stream, typically via terminal
-
-- Stream : A stream is a sequence of data elements made available over time
